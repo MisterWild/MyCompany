@@ -1,0 +1,432 @@
+header{
+   height: 810px;  
+   /* высота  */
+   background-image: url(../web3/css/image/fone.png) ;
+   background-repeat: no-repeat;
+   color: aliceblue;
+   text-align: center;
+   background-position: center;
+}
+.main__layer{
+background-image: url(../web3/css/image/main_layer.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 810px;
+margin-top: -709px;
+
+}
+header h1{
+padding-top: 200px;
+}
+.achive{
+   text-align: center;
+   display: flex;
+  justify-content: center;
+padding-top: 200px;
+}
+.star{
+   padding-right: 100px;
+}
+.task{
+   padding-right: 100px;
+}
+nav{
+   margin-top: 20px;
+   margin-left: 30%;
+}
+.topnav a{
+   color: black;
+   text-align: center;
+   padding: 12px 16px;
+   font-size: 25px;
+   font-weight: bold;
+}
+.stud{
+   height: 526px;
+   background-image:url(../web3/css/image/WE.png) ;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.specialization{
+   text-align: center;
+   display: flex;
+  justify-content: center;
+padding-top: 200px;
+}
+.specialization h1{
+   padding-right: 100px;
+}
+.heard{
+   background: goldenrod;
+   width: 400px;
+   height: 350px;
+}
+.buy{
+   background: goldenrod;
+}
+.three{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+}
+.creed{
+   background-image: url(../web3/css/image/fone2.png);
+   background-repeat: no-repeat;
+   background-position: right;
+   text-align: center;
+   height: 565px;
+   width: 1500px;
+   margin-left: 500px;
+   color: honeydew;
+}
+.creed__layer{
+   background-image: url(../web3/css/image/creed__layer.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 565px;
+   margin-top: -387px;
+}
+.creed h1{
+padding-top: 130px;
+}
+.creed h3{
+   padding-top: 70px;
+}
+.main__development{
+text-align: left;
+}
+
+
+.quad{
+   width: 666px;
+   height: 527px;
+   margin-top: -260px;
+}
+.s1{
+   height: 300px;
+   width: 201px;
+   margin-top: -528px;
+}
+.s2{
+   width: 141px;
+   height: 182px;
+   position:relative;
+   margin-top: -298px;
+   margin-left: 454px;
+}
+.develop{
+   width: 337px;
+   height: 42px;
+   margin-top: -60px;
+   margin-left: 223px;
+}
+.note{
+   width: 364px;
+   height: 318px;
+   margin-left: 215px;
+   margin-top: 100px;
+}
+.note__layer{
+   margin-top: -318px;
+   margin-right: 703px;
+}
+.lp{
+   margin-right: 760px;
+   margin-top: -245px;
+}
+.__{
+   margin-right: 760px;
+}
+.blue{
+   margin-right: 820px;
+   margin-top: 37px;
+}
+.fifteen{
+   margin-top: -44px;
+   margin-right: 832px;
+}
+.blue1{
+   margin-top: 38px;
+    margin-right: 704px;
+}
+.blue__arrow{
+   margin-top: -123px;
+   margin-right: 400px;
+}
+.main__web{
+   width: 364px;
+   height: 318px;
+   margin-top: -267px;
+    margin-left: 604px;
+}
+.web_layer{
+   margin-top: -320px;
+   margin-left: 1px;
+}
+.web__name{
+   margin-top: -247px;
+   margin-left: -76px;
+}
+.___{
+   margin-top: 38px;
+   margin-left: -61px;
+}
+.yellow_quad{
+   margin-top: -42px;
+   margin-left: -126px;
+}
+.line__yellow{
+   margin-top: 125px;
+   margin-left: 1px;
+}
+.ten{
+   margin-top: -121px;
+   margin-left: -148px;
+}
+.yellow__arrow{
+   margin-top: -48px;
+   margin-left: 300px;
+}
+.main__shop{
+   margin-top: -318px;
+   margin-left: 863px;
+}
+.shop__layer{
+   margin-left: 862px;
+   margin-top: -319px;
+}
+.shop__name{
+   margin-left: 830px;
+   margin-top: -244px;
+}
+.shop__line{
+   margin-top: -9px;
+   margin-right: -814px;
+}
+.twenty{
+   margin-top: 60px;
+   margin-left: 704px;
+}
+.shop__rama{
+   margin-top: -137px;
+   margin-left: 751px;
+}
+.shop__quad{
+   margin-top: 40px;
+    margin-left: 860px;
+}
+.shop__arrow{
+   margin-top: -49px;
+   margin-left: 1151px;
+}
+.b1{
+   margin-top: 834px;
+   margin-left: 633px;
+}
+.first{
+   text-align: center;
+   font-size: 20px;
+   margin-left: -740px;
+   margin-top: -81px;
+}
+.first p{
+padding-top: 35px;
+}   
+.google{
+   margin-left: 1512px;
+   margin-top: -257px
+}
+.yandex{
+   margin-left: 1512px;
+}
+.last__projects{
+   text-align: center;
+   color: white;
+}
+.our__projects__layer{
+   margin-top: 50px;
+
+}
+.our__projects{
+   margin-top: -91px;
+}
+.last__projects h1{
+   margin-top: -60px;
+   margin-left: -50px;
+}
+.thems{
+   margin-top: 34px;
+   display: flex;
+   justify-content: center;
+ 
+}
+.thems__2{
+   display: flex;
+   justify-content: center;
+   margin-top: -4px;
+}
+.auto__layer{
+   margin-left: -371px;
+   margin-top: -336px;
+}
+.rkb{
+   margin-top: -213px;
+   margin-left: -411px;
+}
+.autoservice{
+   margin-left: -369px;
+   margin-top: 18px;
+}
+.but{
+   border-radius: 20px;
+   margin-top: -64px;
+}
+.end{
+   margin-top: 100px;
+}
+.adaptate{
+   text-align: center;
+   padding-top: 200px;
+}
+.adaptate_img{
+   margin-left: -700px;
+   margin-top: 200px;
+}
+
+.outline{
+   margin-top: -111px;
+   margin-left: 734px;
+   width: 500px;
+}
+.trade__in{
+   margin-top: 200px;
+background-image: url(../web3/css/image/tradein.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 676px;
+text-align: center;
+color: whitesmoke;
+}
+.trade__in__layer{
+background-image: url(../web3/css/image/tradein__layer.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 676px;
+width: 1510px;
+margin-left: 509px;
+}
+.trade-in{
+   margin-left: -9px;
+   margin-top: -625px;
+}
+.program{
+   margin-right: 900px;
+   margin-top: 224px;
+}
+.program__img{
+   margin-top: -250px;
+   margin-right: 290px;
+}
+.process{
+   margin-top: -86px;
+   margin-right: 50px;
+}
+.process__img{
+   margin-right: 384px;
+   margin-top: -242px;
+}
+.conditions{
+   margin-left: 900px;
+   margin-top: -90px;
+}
+.diamond{
+   margin-right: 300px;
+   margin-top: -240px;
+}
+.Z{
+   border-radius: 30px;
+   width: 330px;
+   height: 70px;
+   margin-top: 250px;
+   color: whitesmoke;
+   background-color: goldenrod;
+}
+.sale{
+   width: 332px;
+   height: 63px;
+}
+.be__careful{
+margin-top: 200px;
+text-align: center;
+margin-right: 400px;
+
+}
+.be__careful h1{
+   margin-right: 440px;
+   margin-top: -45px;
+}
+.be__careful p{
+   margin-right: 426px;
+}
+.smart{
+   padding-left: 900px;
+   margin-top: -350px;
+}
+footer{
+
+  position: relative;
+ /* background:  url(../web3/css/image/footer_fone.png) center no-repeat ;*/
+  -webkit-background-size: cover;
+          background-size: cover;
+   width: 1500px;
+   height: 673px;
+   text-align: center;
+   padding-left: 500px;
+}
+.inner {
+   position: relative;
+   z-index: 3;
+   color: rgb(255, 254, 254);
+   text-align: left; 
+   width: 1510px;
+   height: 570px;
+   padding-right: 740px;
+ }
+ #name{
+    width: 305px;
+    height: 45px;
+ }
+ #fname{
+   width: 305px;
+   height: 45px;
+ }
+ #email{
+   width: 614px;
+   height: 45px;
+ }
+ #massage{
+   width: 614px;
+   height: 162px;
+ }
+.fname{
+   padding-left: 311px;
+   margin-top: -51px;
+}
+.name{
+
+}
+.form{
+   margin-top: -274px;
+   padding-left: 812px;
+}
+.footer__text{
+   margin-top: -308px;
+}
+.X{
+   width: 151px;
+   height: 48px;
+   color: whitesmoke;
+   background-color: goldenrod;
+   border-radius: 10px;
+   margin-left: 1280px;
+}
